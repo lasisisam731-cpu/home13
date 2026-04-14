@@ -1,5 +1,5 @@
 def decimal_to_binary(n):
-    """Convert a decimal number to binary."""
+
     if n == 0:
         return "0"
     
